@@ -1,0 +1,40 @@
+Day-1 Assignment
+------------------------------------------------------------
+1) What is your understanding of Blockchain?
+-> Blockchain is a mixture of two technology:-
+	a]Distributed Database
+	b]Cryptography
+  Where information is -
+	-verifiable
+	-unchangeble
+	-tamper-proof
+	-immutable
+   Key Advantage of Blockchain is- We are able to track if anything is getting changed in the data.
+
+2) What is core problem Blockchain trying to solve?
+-> After the 2008 crisis, it came into existence. The feature which the internet fails to
+   provide like security and authenticity is provided by a blockchain.
+
+3) What are the few fetures which blockchain will give you?
+-> 1)Verifiable
+   2)Unchangeble
+   3)Tamper-proof
+   4)Immutable
+
+4) What all things does a Block contain?
+-> Bock contain follwing things:-
+	1]Block number
+	2]Previous block signature
+	3]Transaction data
+	4]Mining key
+
+5] How is the verifiability of Blockchain has been attend?
+-> It works on the system of the fingerprint. Each block has its own special unique 
+   signature, which is stored in the next block too. If the copy of that block exists
+   somewhere, its signature is compared, only if it matches, its c concluded that the 
+   copy is exactly replicated. if the majority of copies have the same signature and 
+   the copy has a different one, its v verified that it's been tampered with and 
+   hence necessary action is taken. To summarize, so if someone does any data 
+   modifications in one block, it will be changed into other blocks in the same network. 
+   Verification takes place by checking with another blockchain on the channel network.
+   Hence verifiability can be achieved by block chain.
